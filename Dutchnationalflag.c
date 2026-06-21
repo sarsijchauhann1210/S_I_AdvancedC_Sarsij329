@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 int main() {
-    // Sample Input: N=6
     int n = 6;
     int arr[] = {0, 1, 2, 0, 1, 2};
     int low = 0, mid = 0, high = n - 1, i;
